@@ -14,6 +14,7 @@ Stock Name    Date First Crossover        Timestamp
 Stock Name :           ABC
 
 Target Date:  30-day average
+
 2024-04-19   675734.055556
 
 2024-04-22   849740.312500 
